@@ -1,3 +1,3 @@
 ## Aula 05
 
-Desenvolvida por Vanessa Gomes Matsuda 
+Desenvolvido por Vanessa Gomes Matsuda 
